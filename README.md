@@ -1,1 +1,1 @@
-just a test file
+This is a sample README file.
